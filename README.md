@@ -7,7 +7,9 @@
 
 - 👯 I’m looking to share knowledge and collaborate with new devs!
 
-- 📫 How to reach me **hecherat@gmail.com** or <a href="https://www.linkedin.com/in/jorge-hecherat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jorgehecherat" height="20" width="20" /></a>
+<!-- *not working*
+- 📫 How to reach me **hecherat@gmail.com** or <a href="https://www.linkedin.com/in/jorge-hecherat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jorgehecherat" height="20" width="20" /></a> -->
+- 📫 How to reach me **hecherat@gmail.com** or <a href="https://www.linkedin.com/in/jorge-hecherat/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jorgehecherat" height="20" /></a>
 
 ---
 
