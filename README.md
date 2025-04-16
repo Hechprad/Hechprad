@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jorge Hecherat</h1>
 <h3 align="center">A Front-End Developer focused in React (for now 😜)</h3>
 
-- 🔭 I’m currently working on [Prontmed](https://www.linkedin.com/company/prontmed/)
+- 🔭 I’m currently working on Ebury
 
 - 💬 Ask me about: **React, JavaScript, Typescript, HTML, CSS**
 
